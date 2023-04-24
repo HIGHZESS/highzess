@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=d854db&text=Zess)
 
-<h3> 👏: Welcome </h3>
-</hr>
+## 👏: Introduce
 
-새로움을 찾아가는 Zess 입니다.
+
+새로움을 찾아가는 Zess 입니다. 열심히 공부중입니다!
 
 <br><br><br>
 
-<h3> 📚: Skill </h3>
+## 📚: Skill
 <div align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jstl-007396?style=for-the-badge&logo=jstl&logoColor=white"/>
@@ -24,9 +24,21 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>   
-   
 
+<br><br><br>
+
+## :email: contact me
+E-MAIL : highzess@gmail.com
+   
+<br><br><br>   
+   
+## 📂 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=highzess&show_icons=true&theme=radical)
+
+<!--
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highzess&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+-->
+
 
 <!--
 **HIGHZESS/highzess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
