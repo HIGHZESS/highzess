@@ -35,6 +35,11 @@ E-MAIL : highzess@gmail.com
 ## 📂 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=highzess&show_icons=true&theme=radical)
 
+
+1. 세미 프로젝트 - FullBox
+<a href='https://github.com/HIGHZESS/wonder' target='_blank'> 
+   2. 파이널 프로젝트 - Wonder
+</a>
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highzess&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 -->
