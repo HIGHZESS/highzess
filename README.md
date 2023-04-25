@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=d854db&text=Zess)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=d854db&text=Zess) -->
 
 ## 👏: Introduce
 
